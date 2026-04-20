@@ -1,4 +1,4 @@
-## Olá Humano! 👋
+## Olá, Humano! 👋
 
 Sou Oliver, um Arquiteto de Software jr. e dedicado. Estou iniciando minha jornada na área de tecnologia e buscando constantemente aprender, crescer e enfrentar novos desafios.
 
