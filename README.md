@@ -1,11 +1,10 @@
 ## Olá, Humano! 👋
 
-Sou Oliver, um Solutions Architect jr. e dedicado. Estou iniciando minha jornada na área de tecnologia e buscando constantemente aprender, crescer e enfrentar novos desafios.
+Sou Solutions Architect júnior, dedicado e em início de carreira na área de tecnologia. Estou em constante busca por aprendizado, crescimento e novos desafios que impulsionem minha evolução profissional.
 
-Acredito que a programação é uma ferramenta poderosa para solucionar problemas reais e transformar ideias em soluções práticas. Estou focado em aprimorar minhas habilidades técnicas e ampliar meu conhecimento para contribuir efetivamente em projetos de 
-desenvolvimento.
+Acredito na programação como uma ferramenta poderosa para resolver problemas reais e transformar ideias em soluções práticas. Tenho focado no desenvolvimento das minhas habilidades técnicas e na ampliação do meu conhecimento para contribuir de forma efetiva em projetos.
 
-Tenho interesse em trabalhar com equipes colaborativas, onde possa aplicar o que aprendi e evoluir profissionalmente, sempre que possível alinhando às melhores práticas e inovações do mercado.
+Busco oportunidades em equipes colaborativas, onde eu possa aplicar meus conhecimentos, evoluir continuamente e atuar alinhado às melhores práticas e inovações do mercado.
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
